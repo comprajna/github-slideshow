@@ -2,5 +2,6 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+"Words only when they outspeak silence."
+
 Use the left arrow to go back!
